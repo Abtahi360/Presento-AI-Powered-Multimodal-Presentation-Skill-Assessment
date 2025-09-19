@@ -54,16 +54,6 @@ All testing was **acceptance-driven**, meaning each test case was derived from t
 
 ---
 
-## Contributor
-
-This repository is maintained solely by:
-**Abtahi Islam**
-`23-50434-1@student.aiub.edu`
-
-Although roles were initially distributed among a group, **all documentation, design, testing, and GitHub setup have been executed individually**.
-
----
-
 ## Future Work
 
 * Real-time feedback during live presentations.
